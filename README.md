@@ -10,8 +10,8 @@ NUnit3TestAdapter
 Para utilizar o Page Object e PageFactory - 
 DotNetSeleniumExtras    (3.12)
 
-Estrutura de Teste
-coverlet.collector      (1.3.0)
-Microsoft.NET.Test.Sdk  (16.7.1)
-MSTest.TestAdapter      (2.1.1)
-MSTest.TestFramework    (2.1.1)
+Estrutura de Teste  
+coverlet.collector      (1.3.0)  
+Microsoft.NET.Test.Sdk  (16.7.1)  
+MSTest.TestAdapter      (2.1.1)  
+MSTest.TestFramework    (2.1.1)  
