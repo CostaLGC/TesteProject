@@ -21,17 +21,17 @@ Install-Package NUnit3TestAdapter
 NUnit Runner ?  
 Para utilizar o Page Object e PageFactory - 
 DotNetSeleniumExtras    (3.12)
-Install-Package
+Install-Package DotNetSeleniumExtras -Version 3.12.0
   
 Estrutura de Teste  
 coverlet.collector      (1.3.0) 
-Install-Package
+Install-Package coverlet.collector -Version 1.3.0
   
 Microsoft.NET.Test.Sdk  (16.7.1) 
-Install-Package
+Install-Package Microsoft.NET.Test.Sdk -Version 16.7.1
   
 MSTest.TestAdapter      (2.1.1) 
-Install-Package
+Install-Package MSTest.TestAdapter -Version 2.1.1
   
 MSTest.TestFramework    (2.1.1)  
-Install-Package  
+Install-Package  MSTest.TestFramework -Version 2.1.1
