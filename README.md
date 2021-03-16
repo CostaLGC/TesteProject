@@ -30,7 +30,7 @@ Install-Package coverlet.collector -Version 1.3.0
 Microsoft.NET.Test.Sdk  (16.7.1)  
 Install-Package Microsoft.NET.Test.Sdk -Version 16.7.1
   
-MSTest.TestAdapter      (2.1.1) 
+MSTest.TestAdapter      (2.1.1)  
 Install-Package MSTest.TestAdapter -Version 2.1.1
   
 MSTest.TestFramework    (2.1.1)  
